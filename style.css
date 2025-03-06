@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    background:darkgray;
+    overflow:hidden;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+button {
+    left: 10px;
+    top: 10px;
+    position: fixed;
+}
+
+#main {
+    background-color: lightgrey;
+}
+
+#ai {
+    background-color: black;
+}
